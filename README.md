@@ -3,7 +3,7 @@
 # Description:
 So Long is a 2D game project that introduces fundamental game programming concepts using the MiniLibX graphics library. The player controls a character that must collect all items on a map and reach the exit using the shortest path possible. This project focuses on working with textures, sprites, window management, and event handling. The game features a top-down view with tile-based movement, where players navigate through maps defined by .ber files containing walls, collectibles, empty spaces, player starting position, and exit points. 
 
-<img src="./image.png" alt="Screenshot du jeu" width="500">
+<img src="./Screenshot du jeu.png" alt="Screenshot du jeu" width="500">
 
 # Context:
 Part of 42 Common Core.
